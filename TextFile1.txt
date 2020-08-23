@@ -1,2 +1,4 @@
 Hello World!
 This is the second line.
+
+<!! THIS IS MAIN FILE TEXT !!>
